@@ -1,0 +1,27 @@
+[
+	{
+		"name": "help",
+		"id": "1297560698150322188",
+		"description": "Show the help menu"
+	},
+	{
+		"name": "ping",
+		"id": "1297543586346434671",
+		"description": "Bot replies with 'Pong'"
+	},
+	{
+		"name": "update-modpack",
+		"id": "1297543586346434673",
+		"description": "Keep track of whoever has updated their modpack."
+	},
+	{
+		"name": "info",
+		"id": "1300989111171158106",
+		"description": "Information on this bot."
+	},
+	{
+		"name": "link list",
+		"id": "1303203274698260491",
+		"description": "List all of the shortened links."
+	}
+]
